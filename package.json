@@ -1,0 +1,23 @@
+{
+  "name": "jokenpo-backend-nodejs",
+  "version": "1.0.0",
+  "description": "comando para baixar as dependencias do projeto, é importante fazer isso a primeira vez",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquesbelem/jokenpo-backend-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marquesbelem/jokenpo-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/marquesbelem/jokenpo-backend-nodejs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
